@@ -1,0 +1,18 @@
+{
+    "schema": [
+    StructField('I.P',StringType(),True),
+    StructField('Date',DateType(),True),
+    StructField('Time',StringType(),True),
+    StructField('Zone',StringType(),True),
+    StructField('CIK',StringType(),True),
+    StructField('Accession',StringType(),True),
+    StructField('Extension',StringType(),True),
+    StructField('Code',StringType(),True),
+    StructField('Size',IntegerType(),True),
+    StructField('Index',StringType(),True),
+    StructField('Noref',StringType(),True),
+    StructField('NoAgeent',StringType(),True),
+    StructField('Find',StringType(),True),
+    StructField('Crawler',StringType(),True)
+    ]
+}
